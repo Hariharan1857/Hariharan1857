@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hariharan an MCA graduate!
-- 👀 I’m interested in Django, AI/ML concepts
-- 🌱 I’m currently learning Backend technologies!
+- 👀 I’m interested in Python, AI/ML concepts
+- 🌱 I’m currently learning python concepts
 - 📫 You can reach me through this mail crypthari018@gmail.com
 
 <!---
