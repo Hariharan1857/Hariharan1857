@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Hariharan an MCA graduate!
-- 👀 I’m interested in Python, AI/ML concepts
-- 🌱 I’m currently learning python concepts
-- 📫 You can reach me through this mail crypthari018@gmail.com
-
-<!---
-Hariharan1857/Hariharan1857 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Aspiring Data Analyst skilled in Python, SQL, Excel, and Power BI with hands-on experience in analyzing financial and sales data.
+📊 Built interactive dashboards, automated reporting workflows, and uncovered actionable insights for data-driven decisions.
+📁 Projects span marketing analysis, employee management systems, and sales trend dashboards.
+🎓 MCA graduate from SRM University with a strong foundation in data visualization and reconciliation.
